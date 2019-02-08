@@ -26,3 +26,5 @@ If you are extremely confident with what you are doing, you can use the [Autoexe
 ## Running
 
 Make sure Kodi is running and run `main.py`
+
+Nb: the "time remaining" section may display a random time ie 19 hours. However this will just be for yourself. Other users will see the correct time remaining
